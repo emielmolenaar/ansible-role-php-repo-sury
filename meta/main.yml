@@ -1,0 +1,14 @@
+---
+
+galaxy_info:
+  role_name: ansible-role-php-repo-sury
+  author: Emiel Molenaar
+  description: An Ansible role to add Ondřej Surý's PHP repository to Debian-based hosts
+  issue_tracker_url: https://github.com/emielmolenaar/ansible-role-php-repo-sury/issues
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.9
+  galaxy_tags:
+    - php
+    - apt
+    - ppa
+  dependencies: []
